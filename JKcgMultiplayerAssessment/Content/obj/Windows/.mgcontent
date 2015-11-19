@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Ronaldo.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Football.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/font.spritefont</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Messi_Down.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Messi_Up.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Messi_Left.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Messi_Right.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_GreenHealthBar.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_HealthbarContainer.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_PowerBar.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_PowerBarContainer.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Collectable.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_HidingBox.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Pitch.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Ronaldo_Down.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Ronaldo_Left.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Ronaldo_Right.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Ronaldo_Up.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Messi_Left_Shoot.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Messi_Right_Shoot.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Messi_Up_Shoot.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Messi_Down_Shoot.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Star.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Ronaldo_Down_Shoot.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Ronaldo_Left_Shoot.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Ronaldo_Right_Shoot.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_Ronaldo_Up_Shoot.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/MessiRonaldoBG.jpg</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/WaitTex.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/SelectCharacter.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/CharacterSelectConfirm.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Player2Connected.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/SelectYourCharacterPrompt.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/SuperCollect.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/MessiLoseTex.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/MessiWinTex.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/RonaldoLoseTex.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/RonaldoWinTex.png</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/BallKicked.wav</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/VoteCollected.wav</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/PlayerHit.wav</File>
+    <File>C:/Users/s00144602/Desktop/JKcgMultiplayerAssessment/JKcgMultiplayerAssessment/Content/Tex_SpecialCollectable.png</File>
+  </SourceFiles>
+</SourceFileCollection>
